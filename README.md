@@ -1,1 +1,1 @@
-# express-api-ci
+[![Coverage Status](https://coveralls.io/repos/github/tk9285/express-api-ci/badge.svg?branch=master)](https://coveralls.io/github/tk9285/express-api-ci?branch=master)
